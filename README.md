@@ -28,15 +28,14 @@ Synchronization is based on our [Twist-n-Sync](https://github.com/MobileRobotics
 Using this materials please do not forget to reference this repository and cite the paper:
 
 ```
-@article{faizullin2022smartdepthsync,
+@ARTICLE{9709778,
   author={Faizullin, Marsel and Kornilova, Anastasiia and Akhmetyanov, Azat and Pakulev, Konstantin and Sadkov, Andrey and Ferrer, Gonzalo},
-  title={SmartDepthSync: Open Source Synchronized Video Recording System of Smartphone RGB and Depth Camera Range Image Frames with Sub-millisecond Precision}, 
   journal={IEEE Sensors Journal}, 
-  publisher={IEEE},
+  title={SmartDepthSync: Open Source Synchronized Video Recording System of Smartphone RGB and Depth Camera Range Image Frames With Sub-Millisecond Precision}, 
   year={2022},
-  volume={},
-  number={},
-  pages={1-1},
+  volume={22},
+  number={7},
+  pages={7043-7052},
   doi={10.1109/JSEN.2022.3150973}
 }
 ```
